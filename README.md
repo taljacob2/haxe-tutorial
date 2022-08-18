@@ -8,10 +8,11 @@
 
 1. Download Haxe [here!](https://haxe.org/download/)
 
-1. Using VSCode as our IDE, download the Haxe extensions for VSCode:
+1. Using [VSCode](https://code.visualstudio.com/) as our IDE, download the Haxe extensions for VSCode:
    - [Haxe](https://marketplace.visualstudio.com/items?itemName=nadako.vshaxe)
    - [Haxe Checkstyle](https://marketplace.visualstudio.com/items?itemName=vshaxe.haxe-checkstyle)
    - [Haxe Extension Pack](https://marketplace.visualstudio.com/items?itemName=vshaxe.haxe-extension-pack)
+   > NOTE: You may use other [Haxe-supported IDEs](https://haxe.org/documentation/introduction/editors-and-ides.html), to your liking.
 
 ## Initialize A New Project
 
