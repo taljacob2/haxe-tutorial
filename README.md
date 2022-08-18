@@ -42,3 +42,6 @@ View the official [Haxe project on GitHub](https://github.com/HaxeFoundation/hax
    haxe build.hxml
    ```
 
+## Docs
+
+View the docs of Haxe language [here!](https://api.haxe.org/Sys.html)
