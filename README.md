@@ -1,5 +1,18 @@
 # haxe-tutorial
 
+[Haxe](https://haxe.org/) is an open source high-level strictly-typed programming language with
+a fast optimizing cross-compiler.
+
+Haxe can build cross-platform applications targeting JavaScript, C++, C#, Java, JVM, Python, Lua, PHP, Flash, and allows access to each platform's native capabilities. Haxe has its own VMs (HashLink and NekoVM) but can also run in interpreted mode.
+
+Code written in Haxe can be compiled to any target Haxe supports.
+
+The Haxe programming language is a very modern, high-level programming language.
+It is very easy to learn if you're already familiar with Java, C++, PHP, AS3,
+or any similar object-oriented language.
+
+View the official [Haxe project on GitHub](https://github.com/HaxeFoundation/haxe)
+
 ## Installation
 
 > Video Tutorials:
